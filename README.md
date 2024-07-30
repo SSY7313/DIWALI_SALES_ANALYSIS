@@ -1,6 +1,6 @@
 # SSY7313-Python project-DIWALI_SALES_ANALYSIS
 
-
+ 
 This repository contains a Jupyter Notebook for analyzing Diwali sales data. The analysis includes data cleaning, exploratory data analysis (EDA), and visualization to understand sales trends based on different demographics and product categories.
 
 ### Project Overview
