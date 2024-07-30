@@ -16,6 +16,7 @@ The primary objective of this project is to analyze Diwali sales data to identif
 
 ## Data
 The dataset used in this analysis contains sales data with various attributes, including:
+
 ![w](https://github.com/user-attachments/assets/9f78df34-e4d5-4060-90df-7673e3e69071)
 
 - #### Gender: 
