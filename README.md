@@ -16,6 +16,7 @@ The primary objective of this project is to analyze Diwali sales data to identif
 
 ## Data
 The dataset used in this analysis contains sales data with various attributes, including:
+![w](https://github.com/user-attachments/assets/9f78df34-e4d5-4060-90df-7673e3e69071)
 
 - #### Gender: 
 Gender of the customer
@@ -35,6 +36,8 @@ Amount spent by the customer
 ## Tools and Libraries
 The following tools and libraries were used in this analysis:
 
+![u](https://github.com/user-attachments/assets/22b5b350-081c-458a-a261-42491f2b7471)
+
 - #### Python: 
 Core programming language used for analysis
 
@@ -52,6 +55,7 @@ Data visualization
 
 ## Visualizations
 The notebook includes various visualizations to explore the data, such as:
+![c](https://github.com/user-attachments/assets/6e8a2ae5-b3ff-4536-a6a5-dd2fe3b6aa80)
 
 - Bar plots showing the distribution of sales by gender, age group, state, and other demographics.
 
